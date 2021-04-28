@@ -23,6 +23,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import course.examples.Services.KeyCommon.KeyGenerator;
@@ -40,7 +41,8 @@ public class MusicClient extends Activity {
 
 	TextView bindStatusText;
 	Button bindServiceButton;
-	RecyclerView recyclerView;
+	RecyclerView allSongAdapter;
+	RecyclerView playSongAdapter;
 
 	@Override
 	public void onCreate(Bundle icicle) {
@@ -50,8 +52,18 @@ public class MusicClient extends Activity {
 
 		bindServiceButton = (Button) findViewById(R.id.bindServiceButton);
 		bindStatusText = findViewById(R.id.bindStatusText);
-		recyclerView = findViewById(R.id.playSongRV);
-		recyclerView.setNestedScrollingEnabled(false);
+		allSongAdapter = findViewById(R.id.allSongRV);
+		allSongAdapter.setNestedScrollingEnabled(false);
+
+		playSongAdapter = findViewById(R.id.playSongRv);
+
+
+		try {
+			setPlaySongAdapter();
+		} catch(Exception e){
+			Log.i(TAG, "Could not set play song adapter");
+			e.printStackTrace();
+		}
 		bindServiceButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				try {
@@ -70,7 +82,7 @@ public class MusicClient extends Activity {
 						songUrlList = mKeyGeneratorService.getSongUrls();
 
 						// TODO Set Recycler View
-						setAdapter();
+						setAllSongsAdapter();
 						Log.i(TAG, "Service was bound!");
 					}
 					else {
@@ -81,12 +93,42 @@ public class MusicClient extends Activity {
 		});
 	}
 
-	private void setAdapter() {
-		AllSongAdapter adapter = new AllSongAdapter(songNameList,songArtistList,songUrlList);
-		RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getApplicationContext());
-		recyclerView.setLayoutManager(layoutManager);
-		recyclerView.setItemAnimator(new DefaultItemAnimator());
-		recyclerView.setAdapter(adapter);
+	List<String> localSongNameList = new ArrayList<>();
+	List<String> localSongArtistList = new ArrayList<>();
+	private List<String> initSongNamesList(){
+		localSongNameList.add("I Follow Rivers");
+		localSongNameList.add("Funny Thing");
+		localSongNameList.add("Blue World");
+		localSongNameList.add("American Boy");
+		localSongNameList.add("Devuelveme a mi chica");
+		return localSongNameList;
+	}
+
+	private List<String> initSongArtistList(){
+		localSongArtistList.add("Lykke Li");
+		localSongArtistList.add("Thundercat");
+		localSongArtistList.add("Mac Miller");
+		localSongArtistList.add("Kanye West,Est...");
+		localSongArtistList.add("Homb...");
+		return localSongArtistList;
+	}
+
+
+	private void setAllSongsAdapter() {
+		AllSongAdapter allAdapter = new AllSongAdapter(songNameList,songArtistList,songUrlList);
+		RecyclerView.LayoutManager allLayoutManager = new LinearLayoutManager(getApplicationContext());
+		allSongAdapter.setLayoutManager(allLayoutManager);
+		allSongAdapter.setItemAnimator(new DefaultItemAnimator());
+		allSongAdapter.setAdapter(allAdapter);
+	}
+	private void setPlaySongAdapter(){
+		localSongNameList = initSongNamesList();
+		localSongArtistList = initSongArtistList();
+		PlaySongAdapter playAdapter = new PlaySongAdapter(localSongNameList,localSongArtistList);
+		RecyclerView.LayoutManager playLayoutManager = new LinearLayoutManager(getApplicationContext());
+		playSongAdapter.setLayoutManager(playLayoutManager);
+		playSongAdapter.setItemAnimator(new DefaultItemAnimator());
+		playSongAdapter.setAdapter(playAdapter);
 	}
 
 	@Override

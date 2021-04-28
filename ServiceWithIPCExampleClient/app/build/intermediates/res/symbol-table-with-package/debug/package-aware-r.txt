@@ -118,7 +118,6 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
-drawable allsongitem
 drawable american
 drawable blueworld
 drawable devuelveme
@@ -139,6 +138,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable playsongitem
 drawable roundedbuttongrey
 drawable roundedbuttonred
 id action_container
@@ -148,6 +148,7 @@ id action_text
 id actions
 id album_cover
 id all
+id allSongRV
 id artist
 id async
 id barrier
@@ -191,8 +192,12 @@ id notification_main_column
 id notification_main_column_container
 id packed
 id parent
+id pauseSongBtn
 id percent
-id playSongRV
+id playSongArtist
+id playSongBtn
+id playSongRv
+id playSongtitle
 id right
 id right_icon
 id right_side
@@ -208,12 +213,14 @@ id text
 id text2
 id textView
 id textView2
+id textView3
 id time
 id title
 id top
 id url
 id wrap
 integer status_bar_notification_info_maxnum
+layout all_song_list_item
 layout main
 layout notification_action
 layout notification_action_tombstone

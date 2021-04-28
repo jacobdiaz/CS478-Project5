@@ -16,12 +16,12 @@
         "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_allsongitem.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable/allsongitem.xml"
-    },
-    {
         "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_playsongitem.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable/playsongitem.xml"
     },
     {
         "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -94,6 +94,10 @@
     {
         "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_play_song_list_item.xml.flat",
         "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/layout/play_song_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_all_song_list_item.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/layout/all_song_list_item.xml"
     },
     {
         "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",

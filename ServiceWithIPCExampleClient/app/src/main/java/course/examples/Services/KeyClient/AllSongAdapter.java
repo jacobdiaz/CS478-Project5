@@ -44,7 +44,7 @@ public class AllSongAdapter extends RecyclerView.Adapter<AllSongAdapter.MyViewHo
     @Override
     public AllSongAdapter.MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int i) {
         // Inflate our view
-        View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.play_song_list_item, parent, false);
+        View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.all_song_list_item, parent, false);
         return new MyViewHolder(itemView);
     }
 

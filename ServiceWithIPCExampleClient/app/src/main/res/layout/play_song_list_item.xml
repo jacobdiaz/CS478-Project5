@@ -4,53 +4,55 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="10dp"
-    android:paddingBottom="15dp"
-    android:background="@drawable/greycard"
+    android:background="@drawable/playsongitem"
+    android:paddingVertical="10dp"
     >
 
-    <ImageView
-        android:id="@+id/album_cover"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginStart="10dp"
-        />
-
     <TextView
-        android:id="@+id/song_title"
+        android:id="@+id/playSongtitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Song Title"
-        android:textColor="#fff"
-        android:textSize="20dp"
-        android:layout_marginStart="10dp"
+        android:text="Song Name"
+        android:textSize="18dp"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/album_cover"
+        android:textColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/artist"
+        android:id="@+id/playSongArtist"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Artist"
-        android:textColor="#83FFFFFF"
-        android:layout_marginStart="10dp"
-        android:textSize="12dp"
+        android:text="- Artist"
+        android:layout_marginLeft="12dp"
+        android:textColor="#60FFFFFF"
         android:textStyle="italic"
-        app:layout_constraintStart_toEndOf="@+id/album_cover"
-        app:layout_constraintTop_toBottomOf="@+id/song_title" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/playSongtitle"
+        app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:id="@+id/url"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="10dp"
-        android:text="Url"
-        android:textColor="#CF1B1B"
-        android:textSize="12dp"
-        app:layout_constraintStart_toEndOf="@+id/album_cover"
-        app:layout_constraintTop_toBottomOf="@+id/artist" />
+    <Button
+        android:id="@+id/playSongBtn"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:background="@drawable/roundedbuttonred"
+        android:text="Play"
+        android:textColor="#fff"
+        android:layout_marginEnd="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/pauseSongBtn"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/pauseSongBtn"
+        android:text="Pause"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:background="@drawable/roundedbuttongrey"
+        android:textColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
