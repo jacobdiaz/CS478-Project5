@@ -14,7 +14,7 @@
         android:allowBackup="false"
         android:icon="@drawable/ic_launcher" >
         <activity
-            android:name=".KeyServiceUser"
+            android:name=".MusicClient"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1d99df4755544d98928ce9781019931d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2fc1269bd67d2e0a849da44aed820062/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0b4b9ede416c2d1b1136912b3719f979/AndroidManifest.xml:17:1-22:12
@@ -28,35 +28,35 @@ MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Jacob/.gradle/cach
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d3a5f72632013052248857b33f3eb86f/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d31192e470d3e82fd755a76c97ae8835/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/641ac402bb27e042b681facdce4764a7/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:3:5-49
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
 queries
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:5-9:15
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:5-9:15
 package
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:8:9-70
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:8:9-70
 	android:name
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:8:18-68
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:8:18-68
 uses-permission#course.examples.Services.KeyService.GEN_ID
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:5-82
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:5-82
 	android:name
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:22-79
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:22-79
 application
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:13:5-25:19
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:13:5-25:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2a17685baa7706d6955391835a4d9bd/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2a17685baa7706d6955391835a4d9bd/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/AndroidManifest.xml:22:5-94
@@ -66,29 +66,29 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Jacob/.gradl
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/AndroidManifest.xml:22:18-91
 	android:icon
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:15:9-45
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:15:9-45
 	android:allowBackup
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:14:9-36
-activity#course.examples.Services.KeyClient.KeyServiceUser
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:9-24:20
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:14:9-36
+activity#course.examples.Services.KeyClient.MusicClient
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:17:13-43
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:17:13-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1d99df4755544d98928ce9781019931d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1d99df4755544d98928ce9781019931d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2fc1269bd67d2e0a849da44aed820062/AndroidManifest.xml:20:5-44
@@ -137,13 +137,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Jacob/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d31192e470d3e82fd755a76c97ae8835/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/641ac402bb27e042b681facdce4764a7/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Jacob/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/641ac402bb27e042b681facdce4764a7/AndroidManifest.xml:20:5-44
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml

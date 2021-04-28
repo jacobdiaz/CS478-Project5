@@ -18,10 +18,10 @@ public class KeyGeneratorImpl extends Service {
 	public List<String> initList(String type){
 		// List of Songs
 		Song s1 = new Song("I Follow Rivers", "Lykke Li","https://soundcloud.com/cbsimg/lykke-li-i-follow-rivers-the");
-		Song s2 = new Song("Funny Thing","Thundercat","");
-		Song s3 = new Song("Blue World","Mac Miller","");
-		Song s4 = new Song("American Boy","Kanye West, Estelle","");
-		Song s5 = new Song("Devuelveme a mi chica","Hombres G","");
+		Song s2 = new Song("Funny Thing","Thundercat","https://soundcloud.com/thundercat-official/funny-thing");
+		Song s3 = new Song("Blue World","Mac Miller","https://soundcloud.com/larryfisherman/mac-miller-blue-world");
+		Song s4 = new Song("American Boy","Kanye West, Estelle","https://soundcloud.com/atlanticrecords/estelle-american-boy-feat");
+		Song s5 = new Song("Devuelveme a mi chica","Hombres G","https://soundcloud.com/warnermusicspain/devuelveme-a-mi-chica");
 		List<String> songNames = new ArrayList<String>();
 		List<String> artists = new ArrayList<String>();
 		List<String> songUrls = new ArrayList<String>();

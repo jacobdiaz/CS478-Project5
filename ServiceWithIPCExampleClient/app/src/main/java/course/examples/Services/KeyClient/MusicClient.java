@@ -27,7 +27,7 @@ import java.util.List;
 
 import course.examples.Services.KeyCommon.KeyGenerator;
 
-public class KeyServiceUser extends Activity {
+public class MusicClient extends Activity {
 
 	protected static final String TAG = "SongServiceUser";
 	protected static final int PERMISSION_REQUEST = 0;
@@ -51,6 +51,7 @@ public class KeyServiceUser extends Activity {
 		bindServiceButton = (Button) findViewById(R.id.bindServiceButton);
 		bindStatusText = findViewById(R.id.bindStatusText);
 		recyclerView = findViewById(R.id.playSongRV);
+		recyclerView.setNestedScrollingEnabled(false);
 		bindServiceButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				try {
@@ -81,7 +82,7 @@ public class KeyServiceUser extends Activity {
 	}
 
 	private void setAdapter() {
-		PlaySongAdapter adapter = new PlaySongAdapter(songNameList,songArtistList,songUrlList);
+		AllSongAdapter adapter = new AllSongAdapter(songNameList,songArtistList,songUrlList);
 		RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getApplicationContext());
 		recyclerView.setLayoutManager(layoutManager);
 		recyclerView.setItemAnimator(new DefaultItemAnimator());
@@ -137,14 +138,13 @@ public class KeyServiceUser extends Activity {
 		}
 	}
 	// Unbind from KeyGenerator Service
-	protected void handleUnbind() {
+	protected void onStop() {
+		super.onStop();
 		super.onPause();
 		if (mIsBound) {
 			unbindService(this.mConnection);
 		}
 	}
-
-
 
 	private final ServiceConnection mConnection = new ServiceConnection() {
 		public void onServiceConnected(ComponentName className, IBinder iservice) {

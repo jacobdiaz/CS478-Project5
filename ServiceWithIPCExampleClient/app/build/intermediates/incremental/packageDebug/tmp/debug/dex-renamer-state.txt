@@ -1,7 +1,7 @@
-#Wed Apr 28 00:47:06 CDT 2021
-base.0=/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+#Wed Apr 28 14:16:54 CDT 2021
+base.0=/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+base.1=/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/dex/debug/mergeExtDexDebug/out

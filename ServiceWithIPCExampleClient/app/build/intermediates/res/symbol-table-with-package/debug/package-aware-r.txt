@@ -118,8 +118,14 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable allsongitem
+drawable american
+drawable blueworld
+drawable devuelveme
+drawable funnything
 drawable greycard
 drawable ic_launcher
+drawable ifollowrivers
 drawable logo
 drawable notification_action_background
 drawable notification_bg
@@ -133,7 +139,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable playsongitem
 drawable roundedbuttongrey
 drawable roundedbuttonred
 id action_container
@@ -141,6 +146,7 @@ id action_divider
 id action_image
 id action_text
 id actions
+id album_cover
 id all
 id artist
 id async
@@ -157,6 +163,7 @@ id chains
 id chronometer
 id clip_horizontal
 id clip_vertical
+id constraintLayout
 id dimensions
 id direct
 id end
@@ -185,7 +192,6 @@ id notification_main_column_container
 id packed
 id parent
 id percent
-id playSongCard
 id playSongRV
 id right
 id right_icon
@@ -201,9 +207,11 @@ id tag_unhandled_key_listeners
 id text
 id text2
 id textView
+id textView2
 id time
 id title
 id top
+id url
 id wrap
 integer status_bar_notification_info_maxnum
 layout main

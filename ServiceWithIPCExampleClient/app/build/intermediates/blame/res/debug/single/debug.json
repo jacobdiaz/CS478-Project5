@@ -1,150 +1,170 @@
 [
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_funnything.jpeg.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/funnything.jpeg"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_play_song_list_item.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/layout/play_song_list_item.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-v21/notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_playsongitem.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable/playsongitem.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/layout/main.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_greycard.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/greycard.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/logo.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_allsongitem.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable/allsongitem.xml"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
         "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_roundedbuttongrey.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable/roundedbuttongrey.xml"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_roundedbuttonred.xml.flat",
-        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/roundedbuttonred.xml"
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_american.jpeg.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/american.jpeg"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_ifollowrivers.jpeg.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/ifollowrivers.jpeg"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_play_song_list_item.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/layout/play_song_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_greycard.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/greycard.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_roundedbuttongrey.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable/roundedbuttongrey.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_devuelveme.jpg.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/devuelveme.jpg"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_blueworld.png.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/blueworld.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/drawable-hdpi_roundedbuttonred.xml.flat",
+        "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/drawable-hdpi/roundedbuttonred.xml"
     }
 ]

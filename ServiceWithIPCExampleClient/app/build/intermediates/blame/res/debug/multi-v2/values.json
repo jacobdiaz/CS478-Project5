@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/values/values.xml",
@@ -20,23 +20,6 @@
                         "endLines": "128,129,130,131,132,133,134,135,136,137,138,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,163,164,165,166,167,168,169,170,171,174,176,180,181,185,186,187,188,198,343,375,412,419",
                         "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "5944,6007,6065,6139,6209,6277,6349,6419,6480,6554,6627,7074,7135,7197,7261,7323,7384,7452,7552,7612,7678,7751,7820,7877,7929,7991,8063,8139,8240,8275,8325,8386,8443,8477,8512,8547,8617,8805,8973,9174,9284,9485,9614,9686,9753,10196,24893,26958,28718,29095"
-                    }
-                },
-                {
-                    "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2,4,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,166,115",
-                        "endColumns": "59,56,50",
-                        "endOffsets": "110,218,161"
-                    },
-                    "to": {
-                        "startLines": "172,173,175",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "8622,8682,8810",
-                        "endColumns": "59,56,50",
-                        "endOffsets": "8677,8734,8856"
                     }
                 },
                 {
@@ -75,6 +58,23 @@
                         "endLines": "15,191,211,300",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "670,9898,16776,21987"
+                    }
+                },
+                {
+                    "source": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/jdiaz88Project5/ServiceWithIPCExampleClient/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,166,115",
+                        "endColumns": "59,56,50",
+                        "endOffsets": "110,218,161"
+                    },
+                    "to": {
+                        "startLines": "172,173,175",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "8622,8682,8810",
+                        "endColumns": "59,56,50",
+                        "endOffsets": "8677,8734,8856"
                     }
                 },
                 {
