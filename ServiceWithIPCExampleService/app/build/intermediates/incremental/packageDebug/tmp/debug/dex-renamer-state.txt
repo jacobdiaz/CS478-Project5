@@ -1,0 +1,4 @@
+#Wed Apr 28 00:35:24 CDT 2021
+base.0=/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleService/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

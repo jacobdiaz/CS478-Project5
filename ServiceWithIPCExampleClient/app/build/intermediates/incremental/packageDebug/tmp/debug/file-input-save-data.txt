@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Apr 28 00:47:06 CDT 2021
+1.base=/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+1.path=classes.dex

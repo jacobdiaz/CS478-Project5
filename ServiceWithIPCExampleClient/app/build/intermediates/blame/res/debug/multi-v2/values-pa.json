@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Jacob/LocalDevelopment/CS478-MobileApps/SampleCode/Project5/ServiceWithIPCExampleClient/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "map": [
+                {
+                    "source": "/Users/Jacob/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6f045d0da06dc3e6b70ac535b9937830/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
