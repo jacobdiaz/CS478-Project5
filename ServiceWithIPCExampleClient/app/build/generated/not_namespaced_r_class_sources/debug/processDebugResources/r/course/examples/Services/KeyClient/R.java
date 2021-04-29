@@ -1001,11 +1001,12 @@ public final class R {
     public static final int textView=0x7f050046;
     public static final int textView2=0x7f050047;
     public static final int textView3=0x7f050048;
-    public static final int time=0x7f050049;
-    public static final int title=0x7f05004a;
-    public static final int top=0x7f05004b;
-    public static final int url=0x7f05004c;
-    public static final int wrap=0x7f05004d;
+    public static final int textView4=0x7f050049;
+    public static final int time=0x7f05004a;
+    public static final int title=0x7f05004b;
+    public static final int top=0x7f05004c;
+    public static final int url=0x7f05004d;
+    public static final int wrap=0x7f05004e;
   }
   public static final class integer {
     public static final int status_bar_notification_info_maxnum=0x7f060000;
@@ -1021,21 +1022,28 @@ public final class R {
     public static final int notification_template_part_time=0x7f070007;
     public static final int play_song_list_item=0x7f070008;
   }
+  public static final class raw {
+    public static final int americanboy=0x7f080000;
+    public static final int blueworld=0x7f080001;
+    public static final int devuelveme=0x7f080002;
+    public static final int ifollowrivers=0x7f080003;
+    public static final int thundercat=0x7f080004;
+  }
   public static final class string {
-    public static final int app_name=0x7f080000;
-    public static final int get_new_id_string=0x7f080001;
-    public static final int status_bar_notification_info_overflow=0x7f080002;
-    public static final int your_id_string=0x7f080003;
+    public static final int app_name=0x7f090000;
+    public static final int get_new_id_string=0x7f090001;
+    public static final int status_bar_notification_info_overflow=0x7f090002;
+    public static final int your_id_string=0x7f090003;
   }
   public static final class style {
-    public static final int TextAppearance_Compat_Notification=0x7f090000;
-    public static final int TextAppearance_Compat_Notification_Info=0x7f090001;
-    public static final int TextAppearance_Compat_Notification_Line2=0x7f090002;
-    public static final int TextAppearance_Compat_Notification_Time=0x7f090003;
-    public static final int TextAppearance_Compat_Notification_Title=0x7f090004;
-    public static final int Widget_Compat_NotificationActionContainer=0x7f090005;
-    public static final int Widget_Compat_NotificationActionText=0x7f090006;
-    public static final int Widget_Support_CoordinatorLayout=0x7f090007;
+    public static final int TextAppearance_Compat_Notification=0x7f0a0000;
+    public static final int TextAppearance_Compat_Notification_Info=0x7f0a0001;
+    public static final int TextAppearance_Compat_Notification_Line2=0x7f0a0002;
+    public static final int TextAppearance_Compat_Notification_Time=0x7f0a0003;
+    public static final int TextAppearance_Compat_Notification_Title=0x7f0a0004;
+    public static final int Widget_Compat_NotificationActionContainer=0x7f0a0005;
+    public static final int Widget_Compat_NotificationActionText=0x7f0a0006;
+    public static final int Widget_Support_CoordinatorLayout=0x7f0a0007;
   }
   public static final class styleable {
     /**

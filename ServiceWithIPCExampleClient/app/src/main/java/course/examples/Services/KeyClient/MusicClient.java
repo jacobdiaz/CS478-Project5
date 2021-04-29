@@ -57,13 +57,8 @@ public class MusicClient extends Activity {
 
 		playSongAdapter = findViewById(R.id.playSongRv);
 
+		 setPlaySongAdapter();
 
-		try {
-			setPlaySongAdapter();
-		} catch(Exception e){
-			Log.i(TAG, "Could not set play song adapter");
-			e.printStackTrace();
-		}
 		bindServiceButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				try {

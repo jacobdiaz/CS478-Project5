@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:text="Url"
-        android:textColor="#CF1B1B"
+        android:textColor="#83FFFFFF"
         android:textSize="12dp"
         app:layout_constraintStart_toEndOf="@+id/album_cover"
         app:layout_constraintTop_toBottomOf="@+id/artist" />

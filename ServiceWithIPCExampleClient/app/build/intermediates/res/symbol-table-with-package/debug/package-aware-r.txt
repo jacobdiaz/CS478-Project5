@@ -214,6 +214,7 @@ id text2
 id textView
 id textView2
 id textView3
+id textView4
 id time
 id title
 id top
@@ -229,6 +230,11 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout play_song_list_item
+raw americanboy
+raw blueworld
+raw devuelveme
+raw ifollowrivers
+raw thundercat
 string app_name
 string get_new_id_string
 string status_bar_notification_info_overflow

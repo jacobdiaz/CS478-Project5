@@ -12,6 +12,8 @@
         <package android:name="course.examples.Services.KeyService" />
     </queries>
 
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="course.examples.Services.KeyService.GEN_ID" />
 
     <application
@@ -29,6 +31,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service
+            android:name="course.examples.Services.KeyClient.MusicService"
+            android:enabled="true"
+            android:exported="true" />
     </application>
 
 </manifest>
