@@ -9,9 +9,6 @@ package course.examples.Services.KeyService;
 
 public final class Manifest {
   public static final class permission {
-    /**
-     * We are defining this unique permission
-     */
     public static final String GEN_ID="course.examples.Services.KeyService.GEN_ID";
   }
 

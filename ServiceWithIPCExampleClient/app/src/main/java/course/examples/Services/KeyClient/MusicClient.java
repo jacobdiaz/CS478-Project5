@@ -53,7 +53,6 @@ public class MusicClient extends Activity {
 		bindServiceButton = (Button) findViewById(R.id.bindServiceButton);
 		bindStatusText = findViewById(R.id.bindStatusText);
 		allSongAdapter = findViewById(R.id.allSongRV);
-		allSongAdapter.setNestedScrollingEnabled(false);
 
 		playSongAdapter = findViewById(R.id.playSongRv);
 

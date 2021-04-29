@@ -70,7 +70,6 @@ public class KeyGeneratorImpl extends Service {
 		}
 
 		public List<String> getSongUrls() {
-
 			checkCallingPermission("course.examples.Services.KeyService.GEN_ID") ;
 			List<String> songUrls = initList("songUrls");
 			return songUrls;

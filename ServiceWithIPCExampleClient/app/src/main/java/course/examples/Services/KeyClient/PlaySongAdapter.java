@@ -2,6 +2,7 @@ package course.examples.Services.KeyClient;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Color;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -50,7 +51,7 @@ public class PlaySongAdapter extends RecyclerView.Adapter<PlaySongAdapter.MyView
     @Override
     public void onBindViewHolder(@NonNull final PlaySongAdapter.MyViewHolder myViewHolder, final int position) {
 
-        String playSongName = localSongNameList.get(position);
+        final String playSongName = localSongNameList.get(position);
         String playSongArtist = localSongArtistList.get(position);
 
         myViewHolder.playSongTitle.setText(playSongName);
@@ -61,6 +62,8 @@ public class PlaySongAdapter extends RecyclerView.Adapter<PlaySongAdapter.MyView
         myViewHolder.playButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                myViewHolder.playSongTitle.setTextColor(Color.parseColor("#CF1B1B"));
                 musicServiceIntent = new Intent(v.getContext(), MusicService.class);
                 // Pass arguments to service
                 musicServiceIntent.putExtra("songIndex",myViewHolder.getAdapterPosition());
@@ -76,6 +79,7 @@ public class PlaySongAdapter extends RecyclerView.Adapter<PlaySongAdapter.MyView
         myViewHolder.pauseButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                myViewHolder.playSongTitle.setTextColor(Color.parseColor("#ffffff"));
                 v.getContext().stopService(musicServiceIntent);
                 Log.i("PlaySongAdapter", "Pause Button #"+myViewHolder.getAdapterPosition()+". Stopped Service");
             }

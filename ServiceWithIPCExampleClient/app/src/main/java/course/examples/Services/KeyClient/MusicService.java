@@ -132,7 +132,6 @@ public class MusicService extends Service {
                 // Rewind to beginning of song
                 mPlayer.seekTo(0);
             } else {
-
                 // Start playing song
                 mPlayer.start();
             }

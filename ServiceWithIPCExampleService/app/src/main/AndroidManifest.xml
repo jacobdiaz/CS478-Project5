@@ -2,26 +2,33 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="course.examples.Services.KeyService"
     android:versionCode="1"
-    android:versionName="1.0" >
-
-<!--    We are defining this unique permission-->
-    <permission android:name="course.examples.Services.KeyService.GEN_ID"
-        android:protectionLevel="dangerous">
-    </permission>
-
+    android:versionName="1.0">
+    <!-- We are defining this unique permission -->
     <application
         android:allowBackup="false"
-        android:icon="@drawable/ic_launcher" >
+        android:theme="@style/Theme.AppCompat.Light"
+        android:icon="@drawable/ic_launcher">
 
-<!--        Permission that the client must have if it is tryign to bind to the service-->
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Permission that the client must have if it is tryign to bind to the service -->
         <service
-            android:label="@string/app_name"
             android:name=".KeyGeneratorImpl"
             android:exported="true"
-            android:permission="course.examples.Services.KeyService.GEN_ID" >
+            android:label="@string/app_name"
+            android:permission="course.examples.Services.KeyService.GEN_ID">
             <intent-filter>
                 <action android:name="course.examples.Services.KeyCommon.KeyGenerator" />
             </intent-filter>
         </service>
     </application>
+
+    <permission
+        android:name="course.examples.Services.KeyService.GEN_ID"
+        android:protectionLevel="dangerous"></permission>
+
 </manifest>

@@ -9,18 +9,25 @@
         android:minSdkVersion="26"
         android:targetSdkVersion="30" />
 
-    <!-- We are defining this unique permission -->
     <permission
         android:name="course.examples.Services.KeyService.GEN_ID"
-        android:protectionLevel="dangerous" >
-    </permission>
+        android:protectionLevel="dangerous" />
 
+    <!-- We are defining this unique permission -->
     <application
         android:allowBackup="false"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
-        android:testOnly="true" >
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <activity android:name="course.examples.Services.KeyService.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <!-- Permission that the client must have if it is tryign to bind to the service -->
         <service
             android:name="course.examples.Services.KeyService.KeyGeneratorImpl"
