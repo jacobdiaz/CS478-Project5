@@ -18,7 +18,6 @@
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light" >
         <activity android:name="course.examples.Services.KeyService.MainActivity" >
             <intent-filter>

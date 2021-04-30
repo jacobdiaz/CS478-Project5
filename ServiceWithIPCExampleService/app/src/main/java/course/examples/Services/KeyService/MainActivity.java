@@ -58,11 +58,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
         requestWindowFeature(Window.FEATURE_NO_TITLE); // Remove the title bar
+        setContentView(R.layout.activity_main);
         Intent service = new Intent(this, KeyGeneratorImpl.class);
         startService(service);
-
 
         allSongAdapter = findViewById(R.id.allSongRV);
         setAllSongsAdapter();
