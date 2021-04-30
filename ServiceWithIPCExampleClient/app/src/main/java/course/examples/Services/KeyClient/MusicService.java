@@ -90,7 +90,6 @@ public class MusicService extends Service {
     @Override
     public int onStartCommand(Intent intent, int flags, int startid) {
 
-
         // Get arguments passed into service
         Bundle extras = intent.getExtras();
         if(extras == null){
